@@ -1,0 +1,559 @@
+title,location,price,area
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Paradijslaan 140 D                            ,            3034 SV Rotterdam (Nieuw Crooswijk)        ,"                €2,000 per month            ",174 m²
+                        Apartment 's-Gravendijkwal 140 B                            ,            3015 CC Rotterdam (Oude Westen)        ,"                €1,250 per month            ",62 m²
+                        Apartment Pannekoekstraat                            ,            3011 LH Rotterdam (Stadsdriehoek)        ,"                €1,595 per month            ",81 m²
+                        Apartment Chabotlaan 271                            ,            3055 AH Rotterdam (Molenlaankwartier)        ,"                €1,375 per month            ",82 m²
+                        Apartment 's-Gravenweg                            ,            3065 SC Rotterdam ('s-Gravenland)        ,"                €1,095 per month            ",54 m²
+                        Apartment Schonebergerweg                            ,            3023 ZM Rotterdam (Nieuwe Westen)        ,"                €2,200 per month            ",70 m²
+                        Apartment Adriaan Dortsmanstraat 153                            ,            3067 NC Rotterdam (Het Lage Land)        ,"                €1,475 per month            ",88 m²
+                        Apartment Paetsstraat 13 C                            ,            3039 XM Rotterdam (Blijdorp)        ,"                €1,750 per month            ",109 m²
+                        Apartment Kortenaerstraat                            ,            3012 VB Rotterdam (Cool)        ,"                €1,700 per month            ",88 m²
+                        Apartment Hendrick Sorchstraat                            ,            3021 VD Rotterdam (Middelland)        ,                €775 per month            ,23 m²
+                        Apartment Bergse Dorpsstraat 101 A-02                            ,            3054 GC Rotterdam (Hillegersberg Noord)        ,"                €1,550 per month            ",94 m²
+                        Apartment Bulgersteyn                            ,            3011 AB Rotterdam (Stadsdriehoek)        ,"                €2,075 per month            ",98 m²
+                        Apartment Portlandstraat                            ,            3082 XE Rotterdam (Oud Charlois)        ,                €800 per month            ,55 m²
+                        Apartment Oudedijk 211 C                            ,            3061 AE Rotterdam (Kralingen West)        ,"                €2,195 per month            ",120 m²
+                        Apartment Gashouderstraat                            ,            3061 EH Rotterdam (Kralingen West)        ,"                €1,000 per month            ",57 m²
+                        Apartment Grote Visserijstraat                            ,            3026 CN Rotterdam (Tussendijken)        ,"                €1,190 per month            ",75 m²
+                        Apartment Schammenkamp                            ,            3085 GR Rotterdam (Zuidwijk)        ,                €945 per month            ,71 m²
+                        Apartment Maashavenweg                            ,            3072 AZ Rotterdam (Katendrecht)        ,"                €2,495 per month            ",103 m²
+                        Apartment Wijnbrugstraat                            ,            3011 XW Rotterdam (Stadsdriehoek)        ,"                €2,495 per month            ",117 m²
+                        Apartment Orchideestraat                            ,            3051 NL Rotterdam (Hillegersberg Zuid)        ,"                €2,500 per month            ",110 m²
+                        Apartment Wijnbrugstraat                            ,            3011 XW Rotterdam (Stadsdriehoek)        ,"                €1,775 per month            ",73 m²
+                        Apartment Wilhelminakade                            ,            3072 AP Rotterdam (Kop van Zuid)        ,"                €1,650 per month            ",62 m²
+                        Apartment Katendrechtse Lagedijk                            ,            3081 ZS Rotterdam (Tarwewijk)        ,"                €1,100 per month            ",100 m²
+                        House Spoorweghaven                            ,            3071 ZG Rotterdam (Kop van Zuid - Entrepot)        ,"                €5,000 per month            ",240 m²
+                        Apartment Zoutziedersstraat                            ,            3026 EH Rotterdam (Tussendijken)        ,"                €1,500 per month            ",75 m²
+                        Apartment Lijsterlaan 71                            ,            3055 CE Rotterdam (Molenlaankwartier)        ,                €849 per month            ,71 m²
+                        Apartment Weena 443                            ,            3013 AL Rotterdam (Cs Kwartier)        ,"                €1,955 per month            ",80 m²
+                        Apartment Bergstraat                            ,            3035 TD Rotterdam (Oude Noorden)        ,"                €1,300 per month            ",67 m²
+                        Apartment Bergstraat                            ,            3035 TD Rotterdam (Oude Noorden)        ,"                €1,750 per month            ",107 m²
+                        Apartment Mauritsstraat                            ,            3012 CJ Rotterdam (Cool)        ,"                €1,075 per month            ",53 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Schiebroekselaan                            ,            3037 RL Rotterdam (Liskwartier)        ,"                €2,250 per month            ",138 m²
+                        Apartment Botersloot                            ,            3011 HE Rotterdam (Stadsdriehoek)        ,"                €1,995 per month            ",95 m²
+                        Apartment Aelbrechtskade                            ,            3023 JJ Rotterdam (Nieuwe Westen)        ,"                €1,500 per month            ",85 m²
+                        Apartment Bergstraat                            ,            3035 TD Rotterdam (Oude Noorden)        ,"                €1,250 per month            ",83 m²
+                        Apartment Karel Doormanstraat 382 R                            ,            3012 GR Rotterdam (Cool)        ,"                €1,450 per month            ",48 m²
+                        Apartment Grote Visserijstraat                            ,            3026 CH Rotterdam (Tussendijken)        ,"                €1,795 per month            ",120 m²
+                        Apartment Zwaanshals                            ,            3036 KZ Rotterdam (Oude Noorden)        ,"                €1,600 per month            ",50 m²
+                        Apartment Zwederstraat                            ,            3073 ZT Rotterdam (Bloemhof)        ,"                €1,125 per month            ",65 m²
+                        Apartment Oostzeedijk                            ,            3063 BD Rotterdam (Struisenburg)        ,"                €1,495 per month            ",86 m²
+                        Apartment Van der Helmstraat                            ,            3067 HJ Rotterdam (Het Lage Land)        ,"                €1,300 per month            ",75 m²
+                        Apartment Heemraadssingel                            ,            3021 DE Rotterdam (Middelland)        ,"                €1,450 per month            ",50 m²
+                        Apartment Dordtselaan                            ,            3073 GA Rotterdam (Bloemhof)        ,"                €1,745 per month            ",65 m²
+                        Studio Ruilstraat 90 A02                            ,            3023 XX Rotterdam (Nieuwe Westen)        ,                €650 per month            ,14 m²
+                        Apartment Mariniersweg 250                            ,            3011 ZZ Rotterdam (Stadsdriehoek)        ,"                €1,275 per month            ",66 m²
+                        House Bergse Linker Rottekade                            ,            3056 LL Rotterdam (Terbregge)        ,"                €2,360 per month            ",137 m²
+                        Apartment Van Vollenhovenstraat                            ,            3016 BE Rotterdam (Nieuwe Werk)        ,"                €1,395 per month            ",84 m²
+                        Apartment Snellinckstraat                            ,            3021 WC Rotterdam (Middelland)        ,"                €2,000 per month            ",125 m²
+                        Apartment Houtlaan 397                            ,            3016 DA Rotterdam (Nieuwe Werk)        ,"                €3,750 per month            ",124 m²
+                        Apartment Borgesiusstraat                            ,            3038 TB Rotterdam (Bergpolder)        ,                €975 per month            ,50 m²
+                        Studio Transvaalstraat                            ,            3072 PV Rotterdam (Afrikaanderwijk)        ,                €665 per month            ,20 m²
+                        Studio Ploegstraat                            ,            3075 ND Rotterdam (Vreewijk)        ,                €795 per month            ,50 m²
+                        Apartment Kratonkade                            ,            3024 EW Rotterdam (Schiemond)        ,"                €1,995 per month            ",91 m²
+                        Apartment Bergse Dorpsstraat                            ,            3054 GG Rotterdam (Hillegersberg Noord)        ,"                €1,395 per month            ",55 m²
+                        Apartment Hillevliet 68 B02                            ,            3074 KC Rotterdam (Hillesluis)        ,"                €1,395 per month            ",88 m²
+                        Apartment Groen van Prinstererstraat                            ,            3038 RA Rotterdam (Bergpolder)        ,"                €1,250 per month            ",60 m²
+                        Apartment Hooidrift 30 A02                            ,            3023 KP Rotterdam (Nieuwe Westen)        ,"                €1,050 per month            ",65 m²
+                        Apartment Walenburgerweg                            ,            3039 AG Rotterdam (Provenierswijk)        ,"                €1,375 per month            ",62 m²
+                        Apartment Houtlaan                            ,            3016 DA Rotterdam (Nieuwe Werk)        ,"                €3,171 per month            ",90 m²
+                        Apartment Wilhelminakade                            ,            3072 AP Rotterdam (Kop van Zuid)        ,"                €3,298 per month            ",94 m²
+                        Apartment Vlaggemanstraat                            ,            3038 LG Rotterdam (Bergpolder)        ,"                €1,350 per month            ",66 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment West-Sidelinge                            ,            3042 CZ Rotterdam (Kleinpolder)        ,"                €1,750 per month            ",88 m²
+                        Apartment Theseusstraat 147                            ,            3054 RZ Rotterdam (Hillegersberg Noord)        ,"                €2,195 per month            ",105 m²
+                        Room Slotstraat                            ,            3062 PP Rotterdam (Kralingen Oost)        ,                €545 per month            ,25 m²
+                        Apartment Lange Hilleweg 218 A01                            ,            3073 BX Rotterdam (Bloemhof)        ,"                €1,295 per month            ",77 m²
+                        Apartment Schiedamsesingel                            ,            3012 BB Rotterdam (Cool)        ,"                €1,095 per month            ",42 m²
+                        Apartment Hemingwayplaats                            ,            3068 WL Rotterdam (Ommoord)        ,"                €1,595 per month            ",85 m²
+                        Apartment Mathenesserweg                            ,            3026 HC Rotterdam (Spangen)        ,"                €1,495 per month            ",117 m²
+                        Apartment Boompjes                            ,            3011 XB Rotterdam (Stadsdriehoek)        ,"                €1,890 per month            ",96 m²
+                        Apartment Frans Bekkerstraat                            ,            3082 TT Rotterdam (Oud Charlois)        ,"                €1,095 per month            ",50 m²
+                        Apartment Nicolaas Zasstraat                            ,            3033 TC Rotterdam (Provenierswijk)        ,"                €1,350 per month            ",80 m²
+                        Apartment Groeninxstraat                            ,            3039 TD Rotterdam (Blijdorp)        ,"                €1,200 per month            ",95 m²
+                        Apartment Kipstraat 217                            ,            3011 ZX Rotterdam (Stadsdriehoek)        ,"                €1,250 per month            ",82 m²
+                        Apartment Groene Hilledijk 400 A                            ,            3075 ED Rotterdam (Vreewijk)        ,"                €1,450 per month            ",100 m²
+                        Apartment Dorpsweg                            ,            3082 LA Rotterdam (Oud Charlois)        ,"                €1,350 per month            ",68 m²
+                        Apartment Margrietstraat 14 B                            ,            3051 TW Rotterdam (Hillegersberg Zuid)        ,"                €1,300 per month            ",70 m²
+                        Apartment Statenweg                            ,            3039 HK Rotterdam (Blijdorp)        ,"                €1,400 per month            ",116 m²
+                        Apartment Oudedijk                            ,            3061 AE Rotterdam (Kralingen West)        ,"                €1,150 per month            ",60 m²
+                        Room Oostmaaslaan                            ,            3063 AP Rotterdam (Struisenburg)        ,                €900 per month            ,20 m²
+                        Studio Saftlevenstraat                            ,            3015 BK Rotterdam (Oude Westen)        ,                €743 per month            ,30 m²
+                        Apartment Stadhoudersplein                            ,            3038 EA Rotterdam (Bergpolder)        ,"                €1,395 per month            ",76 m²
+                        Apartment Bergse Dorpsstraat 116 C                            ,            3054 GG Rotterdam (Hillegersberg Noord)        ,"                €1,395 per month            ",55 m²
+                        Apartment Statenweg                            ,            3039 HJ Rotterdam (Blijdorp)        ,"                €1,050 per month            ",50 m²
+                        Apartment Essenburgsingel                            ,            3022 EM Rotterdam (Nieuwe Westen)        ,"                €1,050 per month            ",32 m²
+                        Apartment Vierambachtsstraat                            ,            3022 AB Rotterdam (Nieuwe Westen)        ,"                €1,225 per month            ",57 m²
+                        Apartment Zaagmolenstraat                            ,            3036 HK Rotterdam (Oude Noorden)        ,                €895 per month            ,54 m²
+                        Apartment Burgemeester Meineszlaan                            ,            3022 BJ Rotterdam (Nieuwe Westen)        ,"                €1,995 per month            ",127 m²
+                        Apartment Oostmaaslaan                            ,            3063 DC Rotterdam (Struisenburg)        ,"                €1,700 per month            ",140 m²
+                        Apartment Goudsesingel                            ,            3011 KG Rotterdam (Stadsdriehoek)        ,"                €1,475 per month            ",71 m²
+                        Apartment Feijenoordkade                            ,            3071 HK Rotterdam (Feijenoord)        ,"                €2,100 per month            ",140 m²
+                        Apartment Delfgaauwstraat 55 B                            ,            3037 LJ Rotterdam (Liskwartier)        ,"                €1,450 per month            ",75 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Willem van Boelrestraat                            ,            3067 LM Rotterdam (Het Lage Land)        ,"                €1,350 per month            ",85 m²
+                        Apartment Statensingel                            ,            3039 LP Rotterdam (Blijdorp)        ,"                €2,300 per month            ",129 m²
+                        Apartment J.H. van den Broekstraat 23                            ,            3071 MB Rotterdam (Kop van Zuid - Entrepot)        ,"                €1,900 per month            ",115 m²
+                        Apartment Rubensstraat 20 C                            ,            3061 ZX Rotterdam (Kralingen West)        ,"                €1,600 per month            ",70 m²
+                        Apartment Willebrordusplein                            ,            3037 TD Rotterdam (Liskwartier)        ,                €875 per month            ,29 m²
+                        Apartment Beijerlandsestraat 23 B                            ,            3074 RA Rotterdam (Hillesluis)        ,"                €1,250 per month            ",104 m²
+                        Apartment Robert Baeldestraat                            ,            3061 TH Rotterdam (Kralingen West)        ,"                €1,395 per month            ",79 m²
+                        Apartment Willebrordusstraat 124 B                            ,            3037 TX Rotterdam (Liskwartier)        ,"                €1,275 per month            ",52 m²
+                        Apartment Prometheusstraat                            ,            3054 WD Rotterdam (Hillegersberg Noord)        ,"                €2,100 per month            ",104 m²
+                        Apartment Vierambachtsstraat                            ,            3022 AD Rotterdam (Nieuwe Westen)        ,"                €1,195 per month            ",69 m²
+                        Apartment Proveniersstraat                            ,            3033 CH Rotterdam (Provenierswijk)        ,"                €1,550 per month            ",65 m²
+                        Apartment Ernest Groosmanplein                            ,            3071 MN Rotterdam (Kop van Zuid)        ,"                €2,150 per month            ",160 m²
+                        Apartment Zwederstraat                            ,            3073 ZT Rotterdam (Bloemhof)        ,"                €1,350 per month            ",82 m²
+                        Apartment Mauritsstraat                            ,            3012 CH Rotterdam (Cool)        ,"                €1,350 per month            ",36 m²
+                        Apartment Berglustlaan                            ,            3054 BC Rotterdam (Hillegersberg Noord)        ,"                €1,650 per month            ",150 m²
+                        Apartment Hermonlaan 14                            ,            3061 BH Rotterdam (Kralingen West)        ,"                €1,650 per month            ",80 m²
+                        House Bergse Linker Rottekade                            ,            3056 LE Rotterdam (Terbregge)        ,"                €2,150 per month            ",165 m²
+                        Apartment Fluitstraat                            ,            3028 VB Rotterdam (Oud Mathenesse)        ,"                €1,350 per month            ",65 m²
+                        Apartment Beukelsdijk                            ,            3021 AE Rotterdam (Middelland)        ,"                €1,750 per month            ",70 m²
+                        Apartment Mijnsherenlaan                            ,            3081 GN Rotterdam (Tarwewijk)        ,"                €1,495 per month            ",65 m²
+                        Apartment Bentincklaan 332                            ,            3039 KK Rotterdam (Blijdorp)        ,"                €1,595 per month            ",90 m²
+                        Apartment Schiedamseweg                            ,            3026 AE Rotterdam (Tussendijken)        ,"                €1,295 per month            ",104 m²
+                        Apartment Nansenplaats 271                            ,            3069 CS Rotterdam (Ommoord)        ,"                €1,350 per month            ",104 m²
+                        Apartment Noorderhavenkade 37 c3                            ,            3039 RE Rotterdam (Blijdorp)        ,"                €1,595 per month            ",80 m²
+                        Apartment Struitenweg                            ,            3082 WV Rotterdam (Oud Charlois)        ,"                €1,250 per month            ",85 m²
+                        Apartment Scheepmakerspassage                            ,            3011 VH Rotterdam (Stadsdriehoek)        ,"                €1,700 per month            ",84 m²
+                        Apartment Wijnkade                            ,            3011 VZ Rotterdam (Stadsdriehoek)        ,"                €1,500 per month            ",66 m²
+                        Apartment Statenweg                            ,            3039 HE Rotterdam (Blijdorp)        ,"                €1,995 per month            ",103 m²
+                        Apartment Benthuizerstraat                            ,            3036 CK Rotterdam (Oude Noorden)        ,"                €1,395 per month            ",59 m²
+                        Apartment Randweg                            ,            3074 BJ Rotterdam (Hillesluis)        ,                €995 per month            ,56 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Hoogstraat                            ,            3011 PD Rotterdam (Stadsdriehoek)        ,"                €1,195 per month            ",65 m²
+                        Apartment Stationssingel                            ,            3033 HB Rotterdam (Provenierswijk)        ,"                €2,200 per month            ",114 m²
+                        Studio Oudedijk                            ,            3061 AB Rotterdam (Kralingen West)        ,"                €1,395 per month            ",34 m²
+                        House Jacobus van Vessemsingel                            ,            3065 NH Rotterdam ('s-Gravenland)        ,"                €3,500 per month            ",207 m²
+                        Apartment Insulindestraat                            ,            3038 JL Rotterdam (Bergpolder)        ,"                €1,075 per month            ",46 m²
+                        Apartment Samuel Mullerstraat                            ,            3023 SN Rotterdam (Nieuwe Westen)        ,                €650 per month            ,113 m²
+                        Apartment Cordell Hullplaats                            ,            3068 VE Rotterdam (Ommoord)        ,"                €1,200 per month            ",99 m²
+                        Apartment Jufferstraat 208                            ,            3011 XM Rotterdam (Stadsdriehoek)        ,"                €1,690 per month            ",80 m²
+                        Apartment Oostvoornsestraat                            ,            3082 SL Rotterdam (Oud Charlois)        ,"                €1,999 per month            ",90 m²
+                        Apartment Gouwstraat 2 A                            ,            3082 BD Rotterdam (Oud Charlois)        ,"                €1,150 per month            ",74 m²
+                        Apartment Ramlehweg                            ,            3061 JW Rotterdam (Kralingen West)        ,"                €2,250 per month            ",120 m²
+                        Room Straatweg                            ,            3051 BG Rotterdam (Hillegersberg Zuid)        ,                €375 per month            ,20 m²
+                        Room Straatweg                            ,            3051 BG Rotterdam (Hillegersberg Zuid)        ,                €375 per month            ,20 m²
+                        Apartment Weena 43 C                            ,            3013 CD Rotterdam (Stadsdriehoek)        ,"                €1,650 per month            ",80 m²
+                        Room Tamboerstraat                            ,            3034 PW Rotterdam (Oud Crooswijk)        ,                €450 per month            ,25 m²
+                        Apartment Burgemeester Meineszlaan                            ,            3022 BA Rotterdam (Nieuwe Westen)        ,"                €1,895 per month            ",104 m²
+                        Apartment Strevelsweg                            ,            3083 LV Rotterdam (Vreewijk)        ,"                €1,750 per month            ",92 m²
+                        Apartment Mijnsherenlaan 44 D                            ,            3081 CB Rotterdam (Tarwewijk)        ,                €500 per month            ,24 m²
+                        Apartment Vlietlaan                            ,            3061 DX Rotterdam (Kralingen West)        ,                €795 per month            ,100 m²
+                        Apartment Jacob van Campenweg                            ,            3067 LJ Rotterdam (Het Lage Land)        ,"                €1,195 per month            ",88 m²
+                        Apartment Stadhoudersweg                            ,            3038 EG Rotterdam (Bergpolder)        ,"                €1,495 per month            ",74 m²
+                        Apartment Bas Jungeriusstraat                            ,            3081 VJ Rotterdam (Tarwewijk)        ,                €950 per month            ,45 m²
+                        House Villapark                            ,            3051 BP Rotterdam (Hillegersberg Zuid)        ,"                €2,995 per month            ",136 m²
+                        Apartment Pleinweg                            ,            3083 EJ Rotterdam (Carnisse)        ,                €595 per month            ,20 m²
+                        Apartment Paradijslaan 142 E                            ,            3034 SV Rotterdam (Nieuw Crooswijk)        ,"                €2,000 per month            ",174 m²
+                        Apartment Westzeedijk                            ,            3015 AA Rotterdam (Dijkzigt)        ,"                €1,195 per month            ",46 m²
+                        House Prinses Margrietlaan                            ,            3051 AR Rotterdam (Hillegersberg Zuid)        ,"                €1,750 per month            ",55 m²
+                        Studio Schiekade                            ,            3033 BD Rotterdam (Agniesebuurt)        ,                €695 per month            ,25 m²
+                        Apartment Chris Bennekerslaan                            ,            3061 EB Rotterdam (Kralingen West)        ,"                €2,250 per month            ",157 m²
+                        Apartment Zandblokstraat                            ,            3083 MZ Rotterdam (Carnisse)        ,                €550 per month            ,70 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Belgischestraat                            ,            3028 TB Rotterdam (Oud Mathenesse)        ,                €640 per month            ,55 m²
+                        House Zevenbergsedijkje                            ,            3079 DP Rotterdam (Groot IJsselmonde)        ,"                €2,195 per month            ",118 m²
+                        Apartment Noordmolenstraat 15 B                            ,            3035 RD Rotterdam (Oude Noorden)        ,"                €1,595 per month            ",52 m²
+                        House Ceintuurbaan 12 B                            ,            3051 AE Rotterdam (Hillegersberg Zuid)        ,"                €1,895 per month            ",100 m²
+                        Apartment Chris Bennekerslaan                            ,            3061 EB Rotterdam (Kralingen West)        ,"                €2,500 per month            ",157 m²
+                        Studio Witte de Withstraat                            ,            3012 BR Rotterdam (Cool)        ,                €950 per month            ,30 m²
+                        Apartment Mijnsherenlaan                            ,            3081 CC Rotterdam (Tarwewijk)        ,"                €1,295 per month            ",90 m²
+                        House Jericholaan                            ,            3061 HD Rotterdam (Kralingen West)        ,"                €3,500 per month            ",216 m²
+                        Apartment Rochussenstraat                            ,            3021 NR Rotterdam (Middelland)        ,"                €1,700 per month            ",80 m²
+                        Apartment Engelsestraat 43 B                            ,            3028 CB Rotterdam (Oud Mathenesse)        ,"                €1,395 per month            ",55 m²
+                        Apartment Ungerplein 8 A                            ,            3033 BT Rotterdam (Provenierswijk)        ,"                €1,195 per month            ",35 m²
+                        Apartment Prinses Margrietlaan 5 A                            ,            3051 AM Rotterdam (Hillegersberg Zuid)        ,"                €1,385 per month            ",62 m²
+                        Apartment Koopvaardijhof                            ,            3071 PK Rotterdam (Noordereiland)        ,"                €1,400 per month            ",73 m²
+                        Apartment Toepad                            ,            3063 NJ Rotterdam (De Esch)        ,                €976 per month            ,50 m²
+                        Apartment Piet Smitkade                            ,            3077 MJ Rotterdam (Oud IJsselmonde)        ,"                €2,200 per month            ",72 m²
+                        Apartment Schiekade                            ,            3033 BE Rotterdam (Agniesebuurt)        ,"                €2,500 per month            ",95 m²
+                        Apartment Schietbaanlaan                            ,            3021 LP Rotterdam (Middelland)        ,"                €2,500 per month            ",128 m²
+                        Apartment Claes de Vrieselaan                            ,            3021 JR Rotterdam (Middelland)        ,"                €2,400 per month            ",141 m²
+                        Apartment Zaagmolenstraat                            ,            3036 HN Rotterdam (Oude Noorden)        ,"                €2,195 per month            ",114 m²
+                        Apartment Prins Frederik Hendrikstraat                            ,            3051 ET Rotterdam (Hillegersberg Zuid)        ,"                €2,000 per month            ",99 m²
+                        Apartment Schiekade                            ,            3033 BE Rotterdam (Agniesebuurt)        ,"                €2,500 per month            ",95 m²
+                        Apartment Waterloostraat                            ,            3062 TS Rotterdam (Kralingen Oost)        ,"                €2,500 per month            ",88 m²
+                        Apartment Schiedamseweg                            ,            3025 AR Rotterdam (Tussendijken)        ,"                €1,200 per month            ",55 m²
+                        House Kralingseweg                            ,            3065 RC Rotterdam ('s-Gravenland)        ,"                €1,950 per month            ",142 m²
+                        Apartment C.P.Tielestraat                            ,            3023 TB Rotterdam (Nieuwe Westen)        ,"                €2,450 per month            ",159 m²
+                        Apartment Kruisplein                            ,            3012 CC Rotterdam (Cool)        ,"                €1,595 per month            ",61 m²
+                        Apartment Bergse Dorpsstraat                            ,            3054 GA Rotterdam (Hillegersberg Noord)        ,"                €1,295 per month            ",50 m²
+                        Apartment Burgemeester Meineszlaan                            ,            3022 BE Rotterdam (Nieuwe Westen)        ,"                €1,075 per month            ",70 m²
+                        Apartment Burgemeester Meineszlaan                            ,            3022 BE Rotterdam (Nieuwe Westen)        ,"                €1,310 per month            ",85 m²
+                        Apartment Borchsatelaan 142 B                            ,            3055 ZN Rotterdam (Molenlaankwartier)        ,"                €1,650 per month            ",85 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Graaf Adolf van Nassaustraat                            ,            3051 GC Rotterdam (Hillegersberg Zuid)        ,"                €1,450 per month            ",77 m²
+                        Apartment Kratonkade 490                            ,            3024 EW Rotterdam (Schiemond)        ,"                €1,995 per month            ",91 m²
+                        Room Korenaardwarsstraat                            ,            3023 XA Rotterdam (Nieuwe Westen)        ,                €750 per month            ,13 m²
+                        Apartment Kruisplein                            ,            3012 CC Rotterdam (Cool)        ,"                €2,450 per month            ",95 m²
+                        House Boergoensevliet                            ,            3082 KJ Rotterdam (Oud Charlois)        ,"                €1,400 per month            ",92 m²
+                        Apartment Mauritsstraat                            ,            3012 CJ Rotterdam (Cool)        ,"                €1,075 per month            ",61 m²
+                        Apartment Baljuwplein                            ,            3033 XB Rotterdam (Provenierswijk)        ,"                €1,250 per month            ",56 m²
+                        Apartment Helmersstraat 127                            ,            3071 AD Rotterdam (Kop van Zuid - Entrepot)        ,"                €1,600 per month            ",95 m²
+                        Apartment Claes de Vrieselaan                            ,            3021 JR Rotterdam (Middelland)        ,"                €2,500 per month            ",157 m²
+                        Apartment Hellevoetstraat 53                            ,            3081 NN Rotterdam (Tarwewijk)        ,"                €1,350 per month            ",55 m²
+                        House Overschiese Kleiweg                            ,            3045 LJ Rotterdam (Zestienhoven)        ,"                €3,950 per month            ",334 m²
+                        Apartment Graaf Balderikstraat 168                            ,            3032 HC Rotterdam (Oude Noorden)        ,"                €1,500 per month            ",80 m²
+                        Apartment Schilperoortstraat                            ,            3082 SX Rotterdam (Oud Charlois)        ,"                €1,125 per month            ",78 m²
+                        Apartment Stadhoudersweg                            ,            3039 ED Rotterdam (Blijdorp)        ,"                €3,500 per month            ",170 m²
+                        Apartment Provenierssingel                            ,            3033 EM Rotterdam (Provenierswijk)        ,"                €2,995 per month            ",127 m²
+                        Apartment Oostzeedijk Beneden                            ,            3062 VK Rotterdam (Kralingen Oost)        ,"                €2,995 per month            ",118 m²
+                        Apartment Waterloostraat                            ,            3062 TS Rotterdam (Kralingen Oost)        ,"                €2,500 per month            ",88 m²
+                        Apartment Maaskade 133 A02                            ,            3071 NL Rotterdam (Noordereiland)        ,"                €1,200 per month            ",54 m²
+                        Apartment De Kempenaerstraat                            ,            3038 VR Rotterdam (Bergpolder)        ,"                €1,250 per month            ",55 m²
+                        Apartment Bussinghstraat                            ,            3026 RA Rotterdam (Tussendijken)        ,"                €1,500 per month            ",49 m²
+                        Apartment Heemraadssingel 103 E                            ,            3022 CB Rotterdam (Nieuwe Westen)        ,"                €1,995 per month            ",110 m²
+                        Apartment Koningslaan                            ,            3067 TG Rotterdam (Het Lage Land)        ,"                €2,100 per month            ",93 m²
+                        Apartment Glashaven                            ,            3011 XH Rotterdam (Stadsdriehoek)        ,                €986 per month            ,32 m²
+                        Apartment Glashaven                            ,            3011 XH Rotterdam (Stadsdriehoek)        ,                €974 per month            ,25 m²
+                        Apartment Glashaven                            ,            3011 XH Rotterdam (Stadsdriehoek)        ,                €986 per month            ,25 m²
+                        Apartment Glashaven                            ,            3011 XH Rotterdam (Stadsdriehoek)        ,"                €1,003 per month            ",32 m²
+                        Apartment Glashaven                            ,            3011 XH Rotterdam (Stadsdriehoek)        ,                €952 per month            ,21 m²
+                        Apartment Glashaven                            ,            3011 XH Rotterdam (Stadsdriehoek)        ,"                €1,009 per month            ",25 m²
+                        Apartment Glashaven                            ,            3011 XH Rotterdam (Stadsdriehoek)        ,                €997 per month            ,25 m²
+                        Apartment Glashaven                            ,            3011 XH Rotterdam (Stadsdriehoek)        ,                €974 per month            ,21 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Glashaven                            ,            3011 XH Rotterdam (Stadsdriehoek)        ,                €992 per month            ,31 m²
+                        Apartment Glashaven                            ,            3011 XH Rotterdam (Stadsdriehoek)        ,"                €1,003 per month            ",32 m²
+                        Apartment Glashaven                            ,            3011 XH Rotterdam (Stadsdriehoek)        ,                €997 per month            ,25 m²
+                        Apartment Glashaven                            ,            3011 XH Rotterdam (Stadsdriehoek)        ,                €952 per month            ,26 m²
+                        Apartment Lisbloemstraat 19 F                            ,            3051 TM Rotterdam (Hillegersberg Zuid)        ,"                €1,400 per month            ",76 m²
+                        Apartment Vegelinsoord 152                            ,            3079 KP Rotterdam (Groot IJsselmonde)        ,"                €1,395 per month            ",60 m²
+                        Apartment Vijverlaan                            ,            3062 HK Rotterdam (Kralingen Oost)        ,"                €2,250 per month            ",97 m²
+                        Apartment Polderlaan 46 02                            ,            3074 ME Rotterdam (Hillesluis)        ,"                €1,550 per month            ",109 m²
+                        Apartment Laan op Zuid                            ,            3071 AB Rotterdam (Kop van Zuid - Entrepot)        ,"                €1,495 per month            ",101 m²
+                        Apartment Soetendaalsekade 43                            ,            3036 EA Rotterdam (Oude Noorden)        ,"                €1,150 per month            ",40 m²
+                        Apartment Oude Watering                            ,            3077 RG Rotterdam (Beverwaard)        ,"                €1,150 per month            ",70 m²
+                        House Van Bassenstraat                            ,            3067 XE Rotterdam (Het Lage Land)        ,"                €2,195 per month            ",100 m²
+                        Apartment Groene Hilledijk                            ,            3073 AE Rotterdam (Bloemhof)        ,                €995 per month            ,75 m²
+                        Apartment Nieuwe Binnenweg                            ,            3023 EM Rotterdam (Nieuwe Westen)        ,"                €1,745 per month            ",103 m²
+                        Apartment Lambertusstraat                            ,            3062 XB Rotterdam (Kralingen Oost)        ,"                €1,450 per month            ",50 m²
+                        Apartment Adriaen Nimantsstraat                            ,            3074 NG Rotterdam (Hillesluis)        ,"                €1,595 per month            ",88 m²
+                        Apartment Adriaen Nimantsstraat                            ,            3074 NG Rotterdam (Hillesluis)        ,"                €2,125 per month            ",85 m²
+                        Apartment Adriaen Nimantsstraat                            ,            3074 NG Rotterdam (Hillesluis)        ,"                €1,675 per month            ",93 m²
+                        Apartment Adriaen Nimantsstraat                            ,            3074 NG Rotterdam (Hillesluis)        ,"                €1,595 per month            ",88 m²
+                        Apartment Adriaen Nimantsstraat 28 B                            ,            3074 NG Rotterdam (Hillesluis)        ,"                €1,675 per month            ",93 m²
+                        Apartment Adriaen Nimantsstraat                            ,            3074 NG Rotterdam (Hillesluis)        ,"                €1,595 per month            ",88 m²
+                        Apartment Adriaen Nimantsstraat                            ,            3074 NG Rotterdam (Hillesluis)        ,"                €1,675 per month            ",73 m²
+                        Apartment Statenweg                            ,            3039 HN Rotterdam (Blijdorp)        ,"                €2,350 per month            ",135 m²
+                        Apartment Adriaen Nimantsstraat                            ,            3074 NG Rotterdam (Hillesluis)        ,"                €1,595 per month            ",76 m²
+                        Apartment Adriaen Nimantsstraat                            ,            3074 NG Rotterdam (Hillesluis)        ,"                €1,700 per month            ",76 m²
+                        Apartment Oostmaaslaan                            ,            3063 AT Rotterdam (Struisenburg)        ,"                €1,600 per month            ",100 m²
+                        Apartment Mathenesserdijk                            ,            3026 GV Rotterdam (Tussendijken)        ,"                €2,040 per month            ",154 m²
+                        Apartment Franselaan                            ,            3028 AT Rotterdam (Oud Mathenesse)        ,                €895 per month            ,90 m²
+                        Apartment 's-Gravendijkwal                            ,            3014 EK Rotterdam (Oude Westen)        ,"                €1,395 per month            ",77 m²
+                        House Rozenburglaan                            ,            3062 EG Rotterdam (Kralingen Oost)        ,"                €3,450 per month            ",190 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Room Schiedamseweg 118 A                            ,            3025 AH Rotterdam (Bospolder)        ,                €500 per month            ,25 m²
+                        Apartment Bergse Rechter Rottekade 150                            ,            3051 AC Rotterdam (Hillegersberg Zuid)        ,"                €2,495 per month            ",142 m²
+                        Apartment Bergstraat                            ,            3035 TD Rotterdam (Oude Noorden)        ,"                €1,195 per month            ",60 m²
+                        Apartment 1e Jerichostraat 15                            ,            3061 GC Rotterdam (Kralingen West)        ,"                €1,850 per month            ",97 m²
+                        Apartment Baljuwplein                            ,            3033 XB Rotterdam (Provenierswijk)        ,"                €1,895 per month            ",88 m²
+                        Apartment Oosterkade                            ,            3011 TV Rotterdam (Stadsdriehoek)        ,"                €2,750 per month            ",180 m²
+                        House Lissabonerf                            ,            3067 ZP Rotterdam (Oosterflank)        ,"                €1,295 per month            ",88 m²
+                        Apartment Groene Hilledijk 201 B01                            ,            3073 AD Rotterdam (Bloemhof)        ,"                €1,175 per month            ",56 m²
+                        Apartment Houtlaan                            ,            3016 DA Rotterdam (Nieuwe Werk)        ,"                €2,650 per month            ",91 m²
+                        Apartment Wieringerstraat                            ,            3083 CK Rotterdam (Carnisse)        ,                €965 per month            ,52 m²
+                        Apartment Graaf Balderikstraat                            ,            3032 HC Rotterdam (Oude Noorden)        ,"                €1,395 per month            ",52 m²
+                        Apartment Wolphaertsbocht 193 C                            ,            3083 MH Rotterdam (Carnisse)        ,"                €1,150 per month            ",107 m²
+                        Apartment Spoorsingel 70 A                            ,            3033 GP Rotterdam (Provenierswijk)        ,"                €1,350 per month            ",79 m²
+                        Apartment Ungerplein                            ,            3033 BS Rotterdam (Provenierswijk)        ,"                €1,950 per month            ",96 m²
+                        Apartment Borgesiusstraat                            ,            3038 TG Rotterdam (Bergpolder)        ,"                €1,600 per month            ",76 m²
+                        Apartment Wevershoekstraat 23 B                            ,            3081 PA Rotterdam (Zuidplein)        ,                €950 per month            ,48 m²
+                        Apartment Schieweg 93 A2                            ,            3038 AJ Rotterdam (Bergpolder)        ,"                €2,225 per month            ",90 m²
+                        Room Mathenesserdijk                            ,            3027 AK Rotterdam (Spangen)        ,                €785 per month            ,15 m²
+                        Apartment Noorderhavenkade                            ,            3039 RD Rotterdam (Blijdorp)        ,"                €1,495 per month            ",50 m²
+                        House Bergselaan                            ,            3037 CG Rotterdam (Liskwartier)        ,"                €1,900 per month            ",130 m²
+                        Apartment Van Beethovensingel                            ,            3055 JJ Rotterdam (Molenlaankwartier)        ,"                €1,675 per month            ",78 m²
+                        Apartment Crooswijkseweg                            ,            3034 HG Rotterdam (Oud Crooswijk)        ,"                €1,200 per month            ",50 m²
+                        Apartment Insulindestraat 212 C                            ,            3037 BK Rotterdam (Bergpolder)        ,"                €1,850 per month            ",85 m²
+                        Apartment Hendrik de Keyserstraat                            ,            3034 CN Rotterdam (Oud Crooswijk)        ,"                €1,295 per month            ",66 m²
+                        Apartment Oppert                            ,            3011 HV Rotterdam (Stadsdriehoek)        ,"                €2,250 per month            ",100 m²
+                        Apartment Johan de Meesterstraat                            ,            3031 SM Rotterdam (Rubroek)        ,"                €1,395 per month            ",50 m²
+                        Apartment Tamboerstraat                            ,            3034 PT Rotterdam (Oud Crooswijk)        ,"                €1,350 per month            ",56 m²
+                        Apartment 's-Gravendijkwal                            ,            3014 EK Rotterdam (Oude Westen)        ,"                €1,395 per month            ",85 m²
+                        Apartment Buizenwerf                            ,            3063 AB Rotterdam (Struisenburg)        ,"                €1,550 per month            ",74 m²
+                        Apartment Schieweg                            ,            3038 AR Rotterdam (Bergpolder)        ,"                €1,500 per month            ",142 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Korhaanstraat                            ,            3083 XN Rotterdam (Carnisse)        ,                €595 per month            ,50 m²
+                        Apartment Maaskade                            ,            3071 NL Rotterdam (Noordereiland)        ,"                €2,500 per month            ",118 m²
+                        Apartment Schiedamseweg 121 B02                            ,            3026 AG Rotterdam (Tussendijken)        ,"                €1,400 per month            ",113 m²
+                        Apartment Groene Hilledijk                            ,            3074 AD Rotterdam (Hillesluis)        ,"                €1,250 per month            ",104 m²
+                        Apartment Zaagmolenstraat 148 B                            ,            3035 HJ Rotterdam (Oude Noorden)        ,"                €1,350 per month            ",109 m²
+                        Apartment Coolhaven                            ,            3015 GC Rotterdam (Dijkzigt)        ,"                €1,795 per month            ",99 m²
+                        Apartment Grote Visserijstraat                            ,            3026 CM Rotterdam (Tussendijken)        ,"                €1,450 per month            ",80 m²
+                        Apartment Maaskade                            ,            3071 NB Rotterdam (Noordereiland)        ,"                €1,350 per month            ",50 m²
+                        Apartment Westersingel                            ,            3014 GS Rotterdam (Oude Westen)        ,"                €1,850 per month            ",100 m²
+                        Apartment Brigantijnstraat                            ,            3028 HJ Rotterdam (Oud Mathenesse)        ,                €799 per month            ,51 m²
+                        Apartment Flakkeesestraat 129 C                            ,            3083 CG Rotterdam (Carnisse)        ,"                €1,975 per month            ",85 m²
+                        Apartment Wijnbrugstraat                            ,            3011 XW Rotterdam (Stadsdriehoek)        ,"                €2,400 per month            ",103 m²
+                        Apartment Bergse Dorpsstraat                            ,            3054 GA Rotterdam (Hillegersberg Noord)        ,"                €1,295 per month            ",42 m²
+                        Studio Witte de Withstraat                            ,            3012 BT Rotterdam (Cool)        ,"                €1,700 per month            ",50 m²
+                        House Van der Kloot Meyburgstraat                            ,            3067 EP Rotterdam (Het Lage Land)        ,"                €2,500 per month            ",123 m²
+                        House Aleyda van Raephorstlaan 1                            ,            3054 CR Rotterdam (Hillegersberg Noord)        ,"                €2,750 per month            ",163 m²
+                        Room Lange Hilleweg                            ,            3073 BG Rotterdam (Bloemhof)        ,                €420 per month            ,18 m²
+                        Apartment Waterloostraat 27 B                            ,            3062 TD Rotterdam (Kralingen Oost)        ,"                €1,095 per month            ",50 m²
+                        Apartment Admiraliteitskade                            ,            3063 EA Rotterdam (Struisenburg)        ,"                €1,350 per month            ",49 m²
+                        House Jacobusstraat 83                            ,            3012 JM Rotterdam (Cool)        ,"                €1,049 per month            ",76 m²
+                        Apartment Kobelaan                            ,            3067 MD Rotterdam (Oosterflank)        ,"                €1,295 per month            ",80 m²
+                        Studio Westersingel                            ,            3014 GV Rotterdam (Oude Westen)        ,                €975 per month            ,20 m²
+                        Apartment Kruisplein                            ,            3012 CC Rotterdam (Cool)        ,"                €2,500 per month            ",96 m²
+                        Apartment Voorschoterlaan                            ,            3062 KH Rotterdam (Kralingen Oost)        ,"                €2,800 per month            ",189 m²
+                        Apartment Mauritsstraat                            ,            3012 CJ Rotterdam (Cool)        ,"                €1,095 per month            ",55 m²
+                        Apartment Bergsingel                            ,            3037 GA Rotterdam (Liskwartier)        ,"                €2,350 per month            ",100 m²
+                        Apartment Kappeynestraat 5 A                            ,            3039 PE Rotterdam (Blijdorp)        ,"                €2,000 per month            ",80 m²
+                        Apartment Oostmaaslaan                            ,            3063 DJ Rotterdam (Struisenburg)        ,"                €1,975 per month            ",115 m²
+                        Apartment Stationssingel                            ,            3033 HH Rotterdam (Provenierswijk)        ,"                €1,425 per month            ",102 m²
+                        Apartment Mathenesserlaan 337 D                            ,            3023 GA Rotterdam (Nieuwe Westen)        ,"                €2,695 per month            ",104 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Room Fuutstraat                            ,            3082 NB Rotterdam (Oud Charlois)        ,                €775 per month            ,18 m²
+                        Apartment Bergselaan 64 C                            ,            3037 CB Rotterdam (Liskwartier)        ,"                €2,225 per month            ",130 m²
+                        Apartment Schilderstraat 20 D                            ,            3011 ES Rotterdam (Stadsdriehoek)        ,"                €1,600 per month            ",68 m²
+                        House Ghisebrecht Bokellaan                            ,            3054 CB Rotterdam (Hillegersberg Noord)        ,"                €3,000 per month            ",210 m²
+                        Apartment Dordtselaan                            ,            3081 BP Rotterdam (Tarwewijk)        ,                €650 per month            ,50 m²
+                        Apartment Jonker Fransstraat 82 D                            ,            3031 AW Rotterdam (Rubroek)        ,"                €1,800 per month            ",90 m²
+                        Apartment Crooswijkseweg                            ,            3034 HG Rotterdam (Oud Crooswijk)        ,"                €1,650 per month            ",125 m²
+                        House Villapark 4                            ,            3051 BP Rotterdam (Hillegersberg Zuid)        ,"                €3,500 per month            ",245 m²
+                        Apartment Brede Hilledijk                            ,            3072 NC Rotterdam (Katendrecht)        ,"                €1,300 per month            ",60 m²
+                        Apartment Kruisplein                            ,            3012 CC Rotterdam (Cool)        ,"                €2,500 per month            ",76 m²
+                        Apartment Wolphaertsbocht                            ,            3083 MN Rotterdam (Carnisse)        ,"                €1,400 per month            ",52 m²
+                        Apartment Bulgersteyn                            ,            3011 AB Rotterdam (Stadsdriehoek)        ,"                €2,195 per month            ",95 m²
+                        Apartment Van Oldenbarneveltstraat                            ,            3012 GX Rotterdam (Cool)        ,"                €1,071 per month            ",58 m²
+                        Apartment Kruiskade                            ,            3012 EG Rotterdam (Cool)        ,"                €1,650 per month            ",135 m²
+                        Apartment Groen van Prinstererstraat                            ,            3038 RJ Rotterdam (Bergpolder)        ,"                €1,000 per month            ",80 m²
+                        Apartment Halvemaanpassage                            ,            3011 DL Rotterdam (Stadsdriehoek)        ,"                €2,195 per month            ",98 m²
+                        Apartment Westersingel                            ,            3014 GP Rotterdam (Oude Westen)        ,"                €2,995 per month            ",138 m²
+                        Apartment Kees Pijlstraat 82                            ,            3077 MH Rotterdam (Oud IJsselmonde)        ,"                €1,495 per month            ",78 m²
+                        Studio Schilperoortstraat                            ,            3082 SX Rotterdam (Oud Charlois)        ,                €650 per month            ,41 m²
+                        Apartment Kralingse Plaslaan 71                            ,            3061 BA Rotterdam (Kralingen West)        ,"                €2,100 per month            ",100 m²
+                        Apartment Landverhuizersplein                            ,            3072 MH Rotterdam (Kop van Zuid)        ,"                €2,800 per month            ",119 m²
+                        Apartment Houtlaan                            ,            3016 DA Rotterdam (Nieuwe Werk)        ,"                €3,200 per month            ",126 m²
+                        House Delftweg 216                            ,            3046 ND Rotterdam (Schieveen)        ,"                €2,995 per month            ",330 m²
+                        Apartment Kleiweg                            ,            3051 GR Rotterdam (Hillegersberg Zuid)        ,"                €1,100 per month            ",67 m²
+                        Apartment Coolhaven                            ,            3024 AM Rotterdam (Delfshaven)        ,"                €1,350 per month            ",65 m²
+                        Apartment Baljuwplein                            ,            3033 XD Rotterdam (Provenierswijk)        ,"                €1,795 per month            ",66 m²
+                        Apartment Katendrechtse Lagedijk                            ,            3082 GJ Rotterdam (Oud Charlois)        ,"                €1,675 per month            ",122 m²
+                        Apartment Wilgenplaslaan 350                            ,            3052 SP Rotterdam (Schiebroek)        ,"                €1,250 per month            ",74 m²
+                        Apartment Voorschoterlaan                            ,            3062 KH Rotterdam (Kralingen Oost)        ,"                €2,800 per month            ",196 m²
+                        Apartment Oaseplein                            ,            3025 NM Rotterdam (Bospolder)        ,"                €2,350 per month            ",170 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Korhaanstraat                            ,            3083 XE Rotterdam (Carnisse)        ,                €630 per month            ,60 m²
+                        House Bergse Plaslaan 12                            ,            3054 AR Rotterdam (Hillegersberg Noord)        ,"                €3,000 per month            ",120 m²
+                        Apartment Joost van Geelstraat                            ,            3021 VK Rotterdam (Middelland)        ,"                €1,250 per month            ",70 m²
+                        Apartment Joost van Geelstraat                            ,            3021 VJ Rotterdam (Middelland)        ,"                €1,300 per month            ",70 m²
+                        Apartment Strevelsweg                            ,            3073 DX Rotterdam (Bloemhof)        ,"                €1,175 per month            ",90 m²
+                        Apartment Kierkegaardstraat                            ,            3076 RJ Rotterdam (Lombardijen)        ,"                €1,995 per month            ",90 m²
+                        House Gerard Scholtenstraat                            ,            3035 SM Rotterdam (Oude Noorden)        ,"                €2,750 per month            ",130 m²
+                        Apartment Charlotte de Bourbonlaan 9 A                            ,            3062 GA Rotterdam (Kralingen Oost)        ,"                €1,995 per month            ",115 m²
+                        Apartment Weena                            ,            3013 CA Rotterdam (Stadsdriehoek)        ,"                €1,295 per month            ",57 m²
+                        Apartment Hoevestraat                            ,            3033 GC Rotterdam (Provenierswijk)        ,"                €2,395 per month            ",135 m²
+                        Apartment Pleinweg                            ,            3081 JJ Rotterdam (Tarwewijk)        ,"                €1,040 per month            ",50 m²
+                        Apartment Vignolahof 14                            ,            3066 AV Rotterdam (Prinsenland)        ,"                €2,450 per month            ",96 m²
+                        Apartment Oostzeedijk 298 E                            ,            3063 CB Rotterdam (Struisenburg)        ,"                €1,450 per month            ",88 m²
+                        Apartment Posthoornstraat 496                            ,            3011 WD Rotterdam (Stadsdriehoek)        ,"                €2,900 per month            ",111 m²
+                        Apartment De Monchyplein                            ,            3072 MM Rotterdam (Kop van Zuid)        ,"                €2,750 per month            ",96 m²
+                        Apartment Berberisweg 446 B                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,638 per month            ",89 m²
+                        Apartment Berberisweg 446 F                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,638 per month            ",89 m²
+                        Apartment Berberisweg 442 B                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 440 B                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 440 D                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 440 F                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 438 B                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,546 per month            ",89 m²
+                        Apartment Berberisweg 436 D                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,546 per month            ",89 m²
+                        Apartment Berberisweg 434 D                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 444 E                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 444 G                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 442 G                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 442 E                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 444 H                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,769 per month            ",107 m²
+                        Apartment Berberisweg 440 C                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Berberisweg 440 E                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 440 G                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 440 H                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,714 per month            ",107 m²
+                        Apartment Berberisweg 436 E                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,546 per month            ",89 m²
+                        Apartment Berberisweg 436 C                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,546 per month            ",89 m²
+                        Apartment Berberisweg 434 C                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 442 D                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 438 F                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,546 per month            ",89 m²
+                        Apartment Berberisweg 434 F                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 434 G                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Stadhoudersweg                            ,            3039 ED Rotterdam (Blijdorp)        ,"                €3,500 per month            ",170 m²
+                        Apartment Hilledijk 81 A                            ,            3072 RD Rotterdam (Afrikaanderwijk)        ,"                €1,750 per month            ",100 m²
+                        Apartment Schielaan                            ,            3043 HB Rotterdam (Overschie)        ,"                €1,295 per month            ",94 m²
+                        Apartment Maashaven O.z.                            ,            3072 HS Rotterdam (Afrikaanderwijk)        ,"                €1,750 per month            ",160 m²
+                        Apartment 's-Gravendijkwal                            ,            3015 CC Rotterdam (Oude Westen)        ,"                €1,695 per month            ",87 m²
+                        Apartment Berkelselaan                            ,            3038 NA Rotterdam (Bergpolder)        ,"                €1,225 per month            ",75 m²
+                        Apartment Berkelselaan                            ,            3038 NA Rotterdam (Bergpolder)        ,"                €1,050 per month            ",47 m²
+                        Apartment Joost van Geelstraat                            ,            3021 VK Rotterdam (Middelland)        ,"                €1,225 per month            ",70 m²
+                        Apartment Lisstraat                            ,            3037 RA Rotterdam (Liskwartier)        ,"                €1,025 per month            ",50 m²
+                        Apartment Hugo Molenaarstraat                            ,            3022 NS Rotterdam (Nieuwe Westen)        ,"                €1,395 per month            ",108 m²
+                        Apartment Hugo Molenaarstraat                            ,            3022 NS Rotterdam (Nieuwe Westen)        ,                €975 per month            ,64 m²
+                        House Bermweg                            ,            3059 LA Rotterdam (Nesselande)        ,"                €1,850 per month            ",95 m²
+                        Apartment Statensingel                            ,            3039 LT Rotterdam (Blijdorp)        ,"                €1,995 per month            ",120 m²
+                        Apartment Noorderhavenkade                            ,            3039 RH Rotterdam (Blijdorp)        ,"                €1,250 per month            ",50 m²
+                        Apartment Nieuwe Binnenweg                            ,            3015 BH Rotterdam (Oude Westen)        ,"                €1,950 per month            ",170 m²
+                        House Borchsatelaan                            ,            3055 ZK Rotterdam (Molenlaankwartier)        ,"                €2,695 per month            ",101 m²
+                        Apartment Schiebroekselaan                            ,            3037 RL Rotterdam (Liskwartier)        ,"                €1,900 per month            ",128 m²
+                        Apartment Willemskade                            ,            3016 DL Rotterdam (Nieuwe Werk)        ,"                €1,950 per month            ",80 m²
+                        Apartment Streksingel 221                            ,            3054 HH Rotterdam (Hillegersberg Noord)        ,"                €1,250 per month            ",60 m²
+                        Apartment Middelharnisstraat                            ,            3086 GH Rotterdam (Pendrecht)        ,                €856 per month            ,57 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Bulgersteyn                            ,            3011 AB Rotterdam (Stadsdriehoek)        ,"                €2,450 per month            ",155 m²
+                        Apartment Schouwburgplein                            ,            3012 CL Rotterdam (Cool)        ,"                €1,995 per month            ",85 m²
+                        Apartment Admiraliteitskade                            ,            3063 EH Rotterdam (Struisenburg)        ,"                €2,800 per month            ",250 m²
+                        Apartment Nico Koomanskade                            ,            3072 LM Rotterdam (Katendrecht)        ,"                €2,195 per month            ",85 m²
+                        Room Nieuwenoord                            ,            3079 LJ Rotterdam (Groot IJsselmonde)        ,                €500 per month            ,20 m²
+                        House Dordtsestraatweg                            ,            3075 BB Rotterdam (Vreewijk)        ,"                €1,595 per month            ",85 m²
+                        House Statenlaan 23                            ,            3051 HJ Rotterdam (Hillegersberg Zuid)        ,"                €3,500 per month            ",258 m²
+                        Apartment Philips Willemstraat 57 D                            ,            3051 PN Rotterdam (Hillegersberg Zuid)        ,"                €1,675 per month            ",75 m²
+                        Apartment Parklaan 20 A                            ,            3016 BB Rotterdam (Nieuwe Werk)        ,"                €2,495 per month            ",145 m²
+                        Apartment Spanjaardstraat                            ,            3025 TX Rotterdam (Bospolder)        ,"                €1,250 per month            ",120 m²
+                        Apartment Lamsrustlaan 311                            ,            3054 VG Rotterdam (Hillegersberg Noord)        ,"                €3,250 per month            ",155 m²
+                        Apartment Immanuel Kantstraat 172                            ,            3076 DK Rotterdam (Lombardijen)        ,"                €1,000 per month            ",91 m²
+                        Apartment Schiedamseweg 92 96                            ,            3025 AG Rotterdam (Bospolder)        ,"                €1,240 per month            ",70 m²
+                        Apartment 2e Pijnackerstraat                            ,            3035 GJ Rotterdam (Oude Noorden)        ,"                €1,950 per month            ",150 m²
+                        Apartment Noordsingel                            ,            3035 EG Rotterdam (Agniesebuurt)        ,"                €2,100 per month            ",90 m²
+                        Apartment Rodenrijselaan                            ,            3037 XC Rotterdam (Liskwartier)        ,"                €1,650 per month            ",55 m²
+                        Apartment Wilhelminakade                            ,            3072 AP Rotterdam (Kop van Zuid)        ,"                €2,395 per month            ",82 m²
+                        Apartment Oppert                            ,            3011 HV Rotterdam (Stadsdriehoek)        ,"                €2,700 per month            ",93 m²
+                        Apartment Molenwaterweg                            ,            3033 CA Rotterdam (Provenierswijk)        ,"                €1,200 per month            ",65 m²
+                        Apartment Beukelsdijk                            ,            3021 AB Rotterdam (Middelland)        ,"                €1,795 per month            ",85 m²
+                        Apartment Botersloot                            ,            3011 HE Rotterdam (Stadsdriehoek)        ,"                €2,200 per month            ",110 m²
+                        House Gerardus van Sillevoldtstraat                            ,            3065 LG Rotterdam ('s-Gravenland)        ,"                €4,500 per month            ",288 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Cor Kieboomplein                            ,            3077 MK Rotterdam (Oud IJsselmonde)        ,"                €2,495 per month            ",130 m²
+                        Apartment Boompjes                            ,            3011 XZ Rotterdam (Stadsdriehoek)        ,"                €2,500 per month            ",60 m²
+                        Apartment Beijerlandsestraat 23 A                            ,            3074 RA Rotterdam (Hillesluis)        ,"                €1,750 per month            ",110 m²
+                        Apartment Gedempte Zalmhaven                            ,            3011 BT Rotterdam (Stadsdriehoek)        ,"                €2,795 per month            ",102 m²
+                        Apartment Gedempte Zalmhaven                            ,            3016 DT Rotterdam (Nieuwe Werk)        ,"                €3,750 per month            ",111 m²
+                        Apartment Wijnbrugstraat 328                            ,            3011 XW Rotterdam (Stadsdriehoek)        ,"                €2,500 per month            ",115 m²
+                        Apartment Kleiweg                            ,            3051 GR Rotterdam (Hillegersberg Zuid)        ,"                €1,375 per month            ",95 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Noordsingel                            ,            3035 EG Rotterdam (Agniesebuurt)        ,"                €2,300 per month            ",90 m²
+                        Apartment Kruiskade                            ,            3012 EG Rotterdam (Cool)        ,"                €1,350 per month            ",78 m²
+                        Apartment Berberisweg 442 F                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 442 C                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Berberisweg 412                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,672 per month            ",91 m²
+                        Apartment Berberisweg 434 E                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,592 per month            ",89 m²
+                        Apartment Nijverheidstraat                            ,            3071 GB Rotterdam (Feijenoord)        ,"                €1,995 per month            ",55 m²
+                        Apartment Berberisweg 408                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,945 per month            ",114 m²
+                        Apartment Berberisweg 392                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,886 per month            ",114 m²
+                        Apartment Berberisweg 414                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,884 per month            ",106 m²
+                        Apartment Berberisweg 406                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,884 per month            ",106 m²
+                        Apartment Berberisweg 390                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,829 per month            ",106 m²
+                        Apartment Berberisweg 398                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,829 per month            ",106 m²
+                        Apartment Kruiskade                            ,            3012 EG Rotterdam (Cool)        ,"                €1,250 per month            ",78 m²
+                        Apartment Avenue Concordia                            ,            3062 LD Rotterdam (Kralingen Oost)        ,"                €2,900 per month            ",179 m²
+                        Apartment Noordplein                            ,            3035 EE Rotterdam (Oude Noorden)        ,"                €3,000 per month            ",140 m²
+                        Apartment Binnenrotte                            ,            3011 HB Rotterdam (Stadsdriehoek)        ,"                €2,700 per month            ",120 m²
+                        House Jaffa                            ,            3061 JK Rotterdam (Kralingen West)        ,"                €3,200 per month            ",140 m²
+                        Apartment Boezemweg 173 H*                            ,            3031 BH Rotterdam (Rubroek)        ,"                €1,805 per month            ",79 m²
+                        Apartment Westplein                            ,            3016 BM Rotterdam (Nieuwe Werk)        ,"                €2,495 per month            ",104 m²
+                        House 1e Jerichostraat 57 A                            ,            3061 GC Rotterdam (Kralingen West)        ,"                €2,500 per month            ",110 m²
+                        Apartment Noordplein                            ,            3035 EE Rotterdam (Oude Noorden)        ,"                €2,300 per month            ",90 m²
+                        Apartment 's-Gravendijkwal                            ,            3015 CC Rotterdam (Oude Westen)        ,"                €1,525 per month            ",82 m²
+                        Apartment 's-Gravendijkwal                            ,            3015 CC Rotterdam (Oude Westen)        ,"                €1,250 per month            ",59 m²
+                        Apartment Honingerhof                            ,            3063 BZ Rotterdam (Struisenburg)        ,"                €2,595 per month            ",143 m²
+                        Apartment Boezemweg 173 A*                            ,            3031 BH Rotterdam (Rubroek)        ,"                €1,865 per month            ",79 m²
+                        House Avenue Concordia                            ,            3062 LM Rotterdam (Kralingen Oost)        ,"                €3,250 per month            ",300 m²
+                        Apartment Kruiskade                            ,            3012 EG Rotterdam (Cool)        ,"                €1,575 per month            ",126 m²
+                        Apartment Van Vollenhovenstraat 17 F                            ,            3016 BE Rotterdam (Nieuwe Werk)        ,"                €2,350 per month            ",100 m²
+                        Apartment Statenweg                            ,            3039 HL Rotterdam (Blijdorp)        ,"                €1,300 per month            ",125 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Maasboulevard                            ,            3011 TX Rotterdam (Stadsdriehoek)        ,"                €2,950 per month            ",108 m²
+                        Apartment Weena                            ,            3013 CD Rotterdam (Stadsdriehoek)        ,"                €2,500 per month            ",80 m²
+                        Apartment Louise de Colignylaan                            ,            3062 HN Rotterdam (Kralingen Oost)        ,"                €1,950 per month            ",100 m²
+                        House Larikslaan                            ,            3053 LK Rotterdam (Schiebroek)        ,"                €2,995 per month            ",134 m²
+                        House Jeruzalemstraat                            ,            3061 GN Rotterdam (Kralingen West)        ,"                €4,500 per month            ",152 m²
+                        Apartment Weena 17 B                            ,            3013 CB Rotterdam (Stadsdriehoek)        ,"                €2,500 per month            ",70 m²
+                        Apartment Nico Koomanskade                            ,            3072 LM Rotterdam (Katendrecht)        ,"                €4,800 per month            ",300 m²
+                        Apartment Gedempte Zalmhaven                            ,            3016 DT Rotterdam (Nieuwe Werk)        ,"                €3,500 per month            ",111 m²
+                        Apartment Boompjes                            ,            3011 XZ Rotterdam (Stadsdriehoek)        ,"                €2,550 per month            ",80 m²
+                        Studio Weena                            ,            3014 DA Rotterdam (Cs Kwartier)        ,"                €2,995 per month            ",65 m²
+                        Apartment Kruiskade                            ,            3012 EG Rotterdam (Cool)        ,"                €1,350 per month            ",78 m²
+                        Apartment Kruiskade                            ,            3012 EG Rotterdam (Cool)        ,"                €1,785 per month            ",120 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Apartment Kruiskade                            ,            3012 EG Rotterdam (Cool)        ,"                €1,250 per month            ",78 m²
+                        Apartment Mathenesserlaan                            ,            3021 HC Rotterdam (Middelland)        ,"                €1,650 per month            ",65 m²
+                        Apartment Kruiskade                            ,            3012 EG Rotterdam (Cool)        ,"                €1,250 per month            ",78 m²
+                        Apartment De Monchyplein                            ,            3072 MM Rotterdam (Kop van Zuid)        ,"                €3,400 per month            ",100 m²
+                        Apartment Kruiskade                            ,            3012 EG Rotterdam (Cool)        ,"                €1,250 per month            ",83 m²
+                        Apartment Westzeedijk                            ,            3024 EL Rotterdam (Delfshaven)        ,"                €2,600 per month            ",216 m²
+                        Apartment Mauritsstraat                            ,            3012 CH Rotterdam (Cool)        ,"                €1,695 per month            ",50 m²
+                        Apartment Zuidplein                            ,            3083 CR Rotterdam (Zuidplein)        ,                €750 per month            ,40 m²
+                        Apartment Mauritsstraat                            ,            3012 CH Rotterdam (Cool)        ,"                €1,395 per month            ",33 m²
+                        Apartment Mauritsstraat                            ,            3012 CH Rotterdam (Cool)        ,"                €1,495 per month            ",40 m²
+                        Apartment Mauritsstraat                            ,            3012 CH Rotterdam (Cool)        ,"                €1,495 per month            ",40 m²
+                        Apartment Mauritsstraat                            ,            3012 CH Rotterdam (Cool)        ,"                €1,495 per month            ",40 m²
+                        Apartment Mauritsstraat                            ,            3012 CH Rotterdam (Cool)        ,"                €1,695 per month            ",50 m²
+                        Apartment Mauritsstraat                            ,            3012 CH Rotterdam (Cool)        ,"                €1,395 per month            ",33 m²
+                        Apartment Mauritsstraat                            ,            3012 CH Rotterdam (Cool)        ,"                €1,695 per month            ",50 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Apartment Mauritsstraat                            ,            3012 CH Rotterdam (Cool)        ,"                €1,495 per month            ",40 m²
+                        Apartment Mauritsstraat                            ,            3012 CH Rotterdam (Cool)        ,"                €1,495 per month            ",40 m²
+                        Apartment Mauritsstraat                            ,            3012 CH Rotterdam (Cool)        ,"                €1,395 per month            ",33 m²
+                        Apartment Statenweg                            ,            3039 HL Rotterdam (Blijdorp)        ,"                €1,250 per month            ",125 m²
+                        Apartment Mauritsstraat                            ,            3012 CH Rotterdam (Cool)        ,"                €1,695 per month            ",45 m²
+                        Apartment Mauritsstraat                            ,            3012 CH Rotterdam (Cool)        ,"                €1,395 per month            ",33 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Granadoslaan                            ,            3055 RC Rotterdam (Molenlaankwartier)        ,                €990 per month            ,40 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Witte de Withstraat                            ,            3012 BT Rotterdam (Cool)        ,"                €1,700 per month            ",50 m²
+                        Apartment Kruiskade                            ,            3012 EG Rotterdam (Cool)        ,"                €2,065 per month            ",111 m²
+                        Apartment Kruiskade                            ,            3012 EG Rotterdam (Cool)        ,"                €1,550 per month            ",83 m²
+                        Apartment Kruiskade                            ,            3012 EG Rotterdam (Cool)        ,"                €1,995 per month            ",83 m²
+                        Apartment Kruiskade                            ,            3012 EG Rotterdam (Cool)        ,"                €1,775 per month            ",83 m²
+                        Apartment Kruiskade                            ,            3012 EG Rotterdam (Cool)        ,"                €1,995 per month            ",83 m²
+                        House Burgemeester de Villeneuvesingel                            ,            3055 AP Rotterdam (Molenlaankwartier)        ,"                €3,500 per month            ",240 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Witte de Withstraat                            ,            3012 BT Rotterdam (Cool)        ,"                €1,700 per month            ",45 m²
+                        Apartment Halvemaanpassage                            ,            3011 DL Rotterdam (Stadsdriehoek)        ,"                €2,395 per month            ",90 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Apartment Noorderhavenkade                            ,            3039 RR Rotterdam (Blijdorp)        ,"                €1,400 per month            ",49 m²
+                        Apartment Berglustlaan                            ,            3054 BC Rotterdam (Hillegersberg Noord)        ,"                €1,850 per month            ",150 m²
+                        Studio Witte de Withstraat                            ,            3012 BN Rotterdam (Cool)        ,"                €1,850 per month            ",40 m²
+                        Studio Witte de Withstraat                            ,            3012 BN Rotterdam (Cool)        ,"                €1,800 per month            ",40 m²
+                        House Donkerslootstraat                            ,            3074 WE Rotterdam (Hillesluis)        ,"                €1,995 per month            ",143 m²
+                        Studio Witte de Withstraat                            ,            3012 BN Rotterdam (Cool)        ,"                €1,800 per month            ",45 m²
+                        Apartment Ochterveltstraat                            ,            3015 XL Rotterdam (Oude Westen)        ,"                €2,250 per month            ",70 m²
+                        Studio Witte de Withstraat                            ,            3012 BT Rotterdam (Cool)        ,"                €1,700 per month            ",50 m²
+                        Studio Oudedijk                            ,            3061 AB Rotterdam (Kralingen West)        ,"                €1,275 per month            ",25 m²
+                        Studio Witte de Withstraat                            ,            3012 BN Rotterdam (Cool)        ,"                €1,750 per month            ",40 m²
+                        Studio Witte de Withstraat                            ,            3012 BT Rotterdam (Cool)        ,"                €1,700 per month            ",45 m²
+                        Studio Witte de Withstraat                            ,            3012 BT Rotterdam (Cool)        ,"                €1,700 per month            ",50 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Oudedijk                            ,            3061 AB Rotterdam (Kralingen West)        ,"                €1,275 per month            ",20 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Eendrachtsweg                            ,            3012 LG Rotterdam (Cool)        ,"                €1,950 per month            ",50 m²
+                        Studio Witte de Withstraat                            ,            3012 BN Rotterdam (Cool)        ,"                €1,400 per month            ",40 m²
+                        Studio Witte de Withstraat                            ,            3012 BN Rotterdam (Cool)        ,"                €1,800 per month            ",40 m²
+                        Apartment Sternstraat                            ,            3083 ZT Rotterdam (Carnisse)        ,                €750 per month            ,45 m²
+                        Apartment Helmersstraat 39                            ,            3071 AD Rotterdam (Kop van Zuid - Entrepot)        ,"                €1,950 per month            ",125 m²
+                        Apartment Mauritsweg 47 b                            ,            3012 JV Rotterdam (Cool)        ,                €700 per month            ,30 m²
+                        Apartment Mauritsweg 47 G                            ,            3012 JV Rotterdam (Cool)        ,"                €1,150 per month            ",90 m²
+                        Apartment Admiraal de Ruyterweg 40 E                            ,            3031 AD Rotterdam (Rubroek)        ,"                €1,400 per month            ",64 m²
+                        Apartment Bredevoorde 112                            ,            3085 TD Rotterdam (Zuidwijk)        ,"                €1,250 per month            ",69 m²
+                        Apartment Weena 57 B                            ,            3013 CE Rotterdam (Stadsdriehoek)        ,"                €1,625 per month            ",79 m²
+                        Apartment Kruisplein                            ,            3012 CC Rotterdam (Cool)        ,"                €2,300 per month            ",80 m²
+                        Apartment Noordeinde                            ,            3061 EM Rotterdam (Kralingen West)        ,"                €1,950 per month            ",102 m²
+                        Apartment Vlietlaan                            ,            3061 DX Rotterdam (Kralingen West)        ,"                €1,100 per month            ",85 m²
+                        Apartment Straatweg 44 C                            ,            3051 BG Rotterdam (Hillegersberg Zuid)        ,"                €1,400 per month            ",94 m²
+                        Apartment Walenburgerplein                            ,            3039 AM Rotterdam (Provenierswijk)        ,"                €1,550 per month            ",73 m²
+                        Apartment Berberisweg 446 C                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,638 per month            ",89 m²
+                        Apartment Berberisweg 438 D                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,546 per month            ",89 m²
+                        Apartment Berberisweg 436 F                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,546 per month            ",89 m²
+                        Apartment Berberisweg 442 H                            ,            3053 PL Rotterdam (Schiebroek)        ,"                €1,714 per month            ",107 m²
